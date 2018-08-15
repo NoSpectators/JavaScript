@@ -1,1 +1,1 @@
-# JavaScript
+# Some practice JS, CSS, and HTML
